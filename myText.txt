@@ -1,1 +1,2 @@
-This is some text in a file. Very exciting indeed. 
+This is some text in a file. Very exciting indeed.
+Some more text. I just added this stuff. 
